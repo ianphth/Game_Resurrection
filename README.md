@@ -8,11 +8,11 @@ Project finished in 2015.05.21.
 This game features 10 Nielsen's heuristics.
 
 H1. Visibility of system status
-  (1) Tell users how to play and game rules
-  (2) Show the result of clearing a level
+  (1) Tell users how to play and game rules
+  (2) Show the result of clearing a level
 H2. Match between system and the real world
-  (1) Game rules correspond to real world logic
-  (2) Icons(e.g. click) IS real (mouse) action
+  (1) Game rules correspond to real world logic
+  (2) Icons(e.g. click) IS real (mouse) action
 H3. User control and freedom
   (1) Enable / disable music
   (2) Quit game anytime
