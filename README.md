@@ -5,6 +5,7 @@ Platform: GameMaker
 Project finished in 2015.05.21.
 
 --
+
 This game features 10 Nielsen's heuristics.
 
 H1. Visibility of system status
